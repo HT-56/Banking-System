@@ -1,0 +1,7 @@
+C:\Users\Ali\Desktop\VS\BakingSystem\BakingSystem\bin\Debug\BakingSystem.exe.config
+C:\Users\Ali\Desktop\VS\BakingSystem\BakingSystem\bin\Debug\BakingSystem.exe
+C:\Users\Ali\Desktop\VS\BakingSystem\BakingSystem\bin\Debug\BakingSystem.pdb
+C:\Users\Ali\Desktop\VS\BakingSystem\BakingSystem\obj\Debug\BakingSystem.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\VS\BakingSystem\BakingSystem\obj\Debug\BakingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\VS\BakingSystem\BakingSystem\obj\Debug\BakingSystem.exe
+C:\Users\Ali\Desktop\VS\BakingSystem\BakingSystem\obj\Debug\BakingSystem.pdb
